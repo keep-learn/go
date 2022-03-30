@@ -1,4 +1,18 @@
-# The Go Programming Language
+## golang 源码包通读
+源码目录在 `/src` 下
+
+工具包： bufio、bytes、strings、path、strconv ...
+
+与系统api打交道的，如os，net、sync ...
+
+了解语言的设计理念，强烈建议阅读io以及fmt包
+
+
+_参考：_
+
+[1] 如何阅读golang源码 https://www.zhihu.com/question/327615791
+
+## The Go Programming Language
 
 Go is an open source programming language that makes it easy to build simple,
 reliable, and efficient software.
